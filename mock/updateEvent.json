@@ -1,0 +1,11 @@
+{
+    "body": "{\"content\":\"Updated message, bro.\",\"attachment\":\"update.jpg\"}",
+    "pathParameters": {
+      "id": "1220f240-ae05-11ea-a0d1-bd122616919e"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
